@@ -22,4 +22,4 @@ preco_total_dia  =  qtd_dias  *  preco_por_dia
 
 preco_a_pagar  =  preco_total_km  +  preco_total_dia
 
-print ( f"Total a pagar: R$ { preco_a_pagar :7.2f } " )
+print ( f"Total a pagar: R$ { preco_a_pagar :7.2f} " )
